@@ -13,31 +13,31 @@ This project models a linearized inverted pendulum on a cart and stabilizes it u
 
 State vector:
 
-\[
+$$
 x = [x,\ \dot{x},\ \theta,\ \dot{\theta}]^T
-\]
+$$
 
 State-space form:
 
-\[
+$$
 \dot{x} = Ax + Bu
-\]
+$$
 
 ## Control Design
 
 The LQR controller uses:
 
-\[
+$$
 u = -Kx
-\]
+$$
 
 The LQG controller uses:
 
-\[
+$$
 u = -K\hat{x}
-\]
+$$
 
-where \(\hat{x}\) is estimated using a Kalman filter.
+where $\hat{x}$ is estimated using a Kalman filter.
 
 ## Results
 
