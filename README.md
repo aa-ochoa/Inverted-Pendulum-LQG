@@ -43,7 +43,7 @@ where $\hat{x}$ is estimated using a Kalman filter.
 
 ![LQR Response](plots/LQR_Response.png)
 
-![LQG Response](plots/LQG Response.png)
+![LQG Response](plots/LQG_Response.png)
 
 ## Key Takeaway
 
