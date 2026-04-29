@@ -41,11 +41,9 @@ where $\hat{x}$ is estimated using a Kalman filter.
 
 ## Results
 
-Add your plots here:
+![LQR Response](plots/LQR_Response.png)
 
-![LQR Response](plots/lqr_response.png)
-
-![LQG Response](plots/lqg_response.png)
+![LQG Response](plots/LQG Response.png)
 
 ## Key Takeaway
 
